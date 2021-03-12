@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/tntitteam/tntitteam.github.io.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tntitteam/tntitteam.github.io.git/static/js/main.f5fa6ecd.chunk.js",
+    "main.js.map": "/tntitteam/tntitteam.github.io.git/static/js/main.f5fa6ecd.chunk.js.map",
+    "runtime-main.js": "/tntitteam/tntitteam.github.io.git/static/js/runtime-main.0b1854f7.js",
+    "runtime-main.js.map": "/tntitteam/tntitteam.github.io.git/static/js/runtime-main.0b1854f7.js.map",
+    "static/js/2.bc63273c.chunk.js": "/tntitteam/tntitteam.github.io.git/static/js/2.bc63273c.chunk.js",
+    "static/js/2.bc63273c.chunk.js.map": "/tntitteam/tntitteam.github.io.git/static/js/2.bc63273c.chunk.js.map",
+    "static/js/3.01206b73.chunk.js": "/tntitteam/tntitteam.github.io.git/static/js/3.01206b73.chunk.js",
+    "static/js/3.01206b73.chunk.js.map": "/tntitteam/tntitteam.github.io.git/static/js/3.01206b73.chunk.js.map",
+    "static/js/4.2ba7cb1b.chunk.js": "/tntitteam/tntitteam.github.io.git/static/js/4.2ba7cb1b.chunk.js",
+    "static/js/4.2ba7cb1b.chunk.js.map": "/tntitteam/tntitteam.github.io.git/static/js/4.2ba7cb1b.chunk.js.map",
+    "static/js/5.02adaf66.chunk.js": "/tntitteam/tntitteam.github.io.git/static/js/5.02adaf66.chunk.js",
+    "static/js/5.02adaf66.chunk.js.map": "/tntitteam/tntitteam.github.io.git/static/js/5.02adaf66.chunk.js.map",
+    "static/js/6.34196809.chunk.js": "/tntitteam/tntitteam.github.io.git/static/js/6.34196809.chunk.js",
+    "static/js/6.34196809.chunk.js.map": "/tntitteam/tntitteam.github.io.git/static/js/6.34196809.chunk.js.map",
+    "index.html": "/tntitteam/tntitteam.github.io.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tntitteam/tntitteam.github.io.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.bc63273c.chunk.js.LICENSE.txt": "/tntitteam/tntitteam.github.io.git/static/js/2.bc63273c.chunk.js.LICENSE.txt",
+    "static/js/3.01206b73.chunk.js.LICENSE.txt": "/tntitteam/tntitteam.github.io.git/static/js/3.01206b73.chunk.js.LICENSE.txt",
+    "static/js/4.2ba7cb1b.chunk.js.LICENSE.txt": "/tntitteam/tntitteam.github.io.git/static/js/4.2ba7cb1b.chunk.js.LICENSE.txt",
+    "static/js/5.02adaf66.chunk.js.LICENSE.txt": "/tntitteam/tntitteam.github.io.git/static/js/5.02adaf66.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tntitteam/tntitteam.github.io.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b1854f7.js",
+    "static/js/3.01206b73.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f5fa6ecd.chunk.js"
+  ]
+}
